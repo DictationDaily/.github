@@ -38,7 +38,7 @@ Sign in with Google and the app saves your progress, your learning time and a **
 | **User guide** | https://docs.dictationdaily.com (short, illustrated steps in simple English) |
 | **Guide source** | [dictationdaily.github.io](https://github.com/DictationDaily/dictationdaily.github.io): the guide site, built with Tailwind CSS and published with GitHub Pages |
 
-Found a mistake in the guide, or a video that does not play? Open an issue on the guide repository and tell us the page or the video.
+Found a mistake in the guide, or a video that does not play? Write to **support@dictationdaily.com** (see the [contact page](https://dictationdaily.com/contact)), or open an issue on the guide repository and tell us the page or the video. What the app stores about you, and how to download or delete it, is on the [privacy page](https://dictationdaily.com/privacy) and your [Settings](https://dictationdaily.com/settings) page.
 
 ## Built with
 
